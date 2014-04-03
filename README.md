@@ -1,12 +1,13 @@
 # DESN 468 Web.Lab
 
-## Goals
 
-* Build onto HTML, CSS, & JS foundations
-* Understand benefits & limitations of various platforms
-* Contribute back to the The Internet
-* Learn, then create. Repeat. 
-* Apply UX design process
+Goals | Projects | Level Up
+------------- | -------------
+Build onto HTML, CSS, & JS foundations | PX
+Understand benefits & limitations of various platforms | PX
+Contribute back to the The Internet | PX
+Learn, then create. Repeat. |
+Apply UX design process |
 
 ***
 
