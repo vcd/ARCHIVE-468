@@ -1,52 +1,18 @@
-# DESN 468 Web.Lab
 
+## Today
+* [Level Up: HTML5 Canvas](https://github.com/vcd/468/wiki/Level-Up-:-HTML5-Canvas)
+* [P1: Status Board](https://github.com/vcd/468/wiki/P1:-Status-Board)
 
-Goals | Projects | Level Up
-------------- | -------------
-Build onto HTML, CSS, & JS foundations | PX
-Understand benefits & limitations of various platforms | PX
-Contribute back to the The Internet | PX
-Learn, then create. Repeat. |
-Apply UX design process |
+### Due
+* [Assignment 1](https://github.com/vcd/468/wiki/AS%231) due **Tue. 4/8 at Midnight**
+* [P1: Status Board](https://github.com/vcd/468/wiki/P1:-Status-Board) due **Thur. 4/10 at 3pm**
 
-***
+### Goals
+* Build onto HTML, CSS, & JS foundations
+* Understand benefits & limitations of various platforms
+* Contribute back to the The Internet
+* Learn, then create. Repeat.
+* Apply UX design process
 
-## Projects
-
-### Icon Fonts
-* [Fontastic](http://fontastic.me/)
-
-### Status Board
-* [Panic](http://www.panic.com/statusboard//)
-
-### iBooks Author
-* [Apple](http://www.apple.com/ibooks-author/)
-
-### Jekyll CMS
-* REF: [Mijingo](http://mijingo.com/products/screencasts/static-websites-with-jekyll/)
-
-### jQuery Mobile Weather App
-* REF: [Team TreeHouse](http://teamtreehouse.com/library/build-a-mobile-web-app-using-jquery-mobile-ajax-part-1)
-
-### Processing with HYPE
-* REF: [Skill Share](http://www.skillshare.com/classes/design/Programming-Graphics-I-Introduction-to-Generative-Art/782118657)
-
-
-## Skillset
-
-### HTML
-* SVG
-* Canvas
-* Audio
-* Video
-* Local Storage
-
-### CSS
-* SASS
-* Scout
-* 
-
-### JS
-* jQuery Mobile
-* cont. jQuery
-* cont. JavaScript
+### Syllabus
+* [Syllabus](https://github.com/vcd/468/wiki/Syllabus)
