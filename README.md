@@ -2,6 +2,7 @@
 * [P1: Status Board](https://github.com/vcd/468/wiki/P1:-Status-Board)
 * [Status Board Resouces]
 (http://drp.mk/Qszg)
+* [Sample](panicboard://?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2F9g6eqlgfb2x145i%2FCups-of-Coffee.csv)
 
 ### Due
 * [Assignment 1](https://github.com/vcd/468/wiki/AS%231) due **Tue. 4/8 at Midnight**
