@@ -1,7 +1,7 @@
-
 ## Today
-* [Level Up: HTML5 Canvas](https://github.com/vcd/468/wiki/Level-Up-:-HTML5-Canvas)
 * [P1: Status Board](https://github.com/vcd/468/wiki/P1:-Status-Board)
+* [Status Board Resouces]
+(http://drp.mk/Qszg)
 
 ### Due
 * [Assignment 1](https://github.com/vcd/468/wiki/AS%231) due **Tue. 4/8 at Midnight**
