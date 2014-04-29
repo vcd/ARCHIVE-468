@@ -1,12 +1,8 @@
 | Level Up | Projects | Assignments |
 | ------------- |:-------------:| -----:|
-|  [Level Up : SASS](https://github.com/vcd/468/wiki/Level-Up-:-SASS)  | right-aligned | $1600 |
+|  [Level Up : SASS](https://github.com/vcd/468/wiki/Level-Up-:-SASS)  | [P3: Jekyll](https://github.com/vcd/468/wiki/P3%3A-Jeykll/) | $1600 |
 
-* How can we run SASS in labs? 
-* Intro. to CLI or Command Line Interface? 
-* [Level Up : SASS](https://github.com/vcd/468/wiki/Level-Up-:-SASS) wiki
-
-### [P3: Jekyll](https://github.com/vcd/468/wiki/P3%3A-Jeykll/)
+### 
 
 * How can we run Jekyll in labs? 
 * Intro. to CLI or Command Line Interface?
