@@ -15,6 +15,3 @@
 ### Modernizer
 
 * [CSS Tricks - Modernizer](http://css-tricks.com/video-screencasts/126-using-modernizr/)
-
-<p data-height="268" data-theme-id="0" data-slug-hash="vBDkt" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/manikoth/pen/vBDkt/'>Midterm Review</a> by P. Colin Manikoth (<a href='http://codepen.io/manikoth'>@manikoth</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//codepen.io/assets/embed/ei.js"></script>
