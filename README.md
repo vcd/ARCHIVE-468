@@ -1,6 +1,10 @@
+Level Up | Projects | Assignments
+### [Level Up : SASS](https://github.com/vcd/468/wiki/Level-Up-:-SASS) | asdf | asdf
+
+
 ## Today
 
-### [Level Up : SASS](https://github.com/vcd/468/wiki/Level-Up-:-SASS)
+
 
 * How can we run SASS in labs? 
 * Intro. to CLI or Command Line Interface? 
