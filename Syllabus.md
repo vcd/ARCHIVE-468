@@ -1,6 +1,6 @@
+## [Course Site](https://github.com/vcd/468/wiki/)
+
+[Web.Lab course site](https://github.com/vcd/468/wiki/) will use the 468 wiki for this repo.
 
 
-
-### [P3: Jekyll](https://github.com/vcd/468/wiki/P3:-Jeykll)
-
-### [AS#3](https://github.com/vcd/468/wiki/AS%233)
+## Syllabus
